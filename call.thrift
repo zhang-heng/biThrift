@@ -1,0 +1,3 @@
+service ReCall{
+	void ping(),
+}

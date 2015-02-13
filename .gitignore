@@ -1,0 +1,35 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# gen
+/gen-cpp
+
+# Project
+.svn
+thrift.props
+gen_source.bat
+*.vcxproj.user
+Debug/
+Release/
+
+# VS
+*.ilk
+*.suo
+*.exp
+*.pdb
+*.sdf
+*.opensdf
+
+# ByName
+BasePlayer.lib

@@ -1,0 +1,1 @@
+D:\libs\thrift\build\bin\thrift -r --gen cpp call.thrift
